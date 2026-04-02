@@ -20,7 +20,7 @@ p {
 }
 
 div {
-  background-color: darkcyan;
+  background-color: blue;
   padding: 20px;
   display: flex;
   justify-content: space-between;
